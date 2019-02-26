@@ -27,11 +27,12 @@
   "creative.gui.world_settings.time": "Время\nУправлением временем суток в мире",
   "creative.gui.world_settings.weather": "Погода\nЛКМ - Солнечная погода\nПКМ - Дождливая погода",
   "creative.gui.worlds_online": "Миры онлайн",
+  "creative.gui.worlds_online.world": "{name}\n§7Создатель: {owner}\n§7Голоса: §6{votes} §7(За последние 7 дней)\n§8ID: {id}",
   "creative.item.my_worlds": "Мои миры",
   "creative.item.builder_utils": "Строительные утилиты",
   "creative.item.world_settings": "Управление миром",
   "creative.item.worlds_online": "Миры онлайн",
-  "creative.tab_footer.world": "\n{name}\n§fВладелец: {owner}\n§fИгроков в мире: §7{online}",
+  "creative.tab_footer.world": "\n{name}\n§fСоздатель: {owner}\n§fИгроков в мире: §7{online}",
   "creative.tab_footer.lobby": "Миров онлайн: §7{worlds}\n§fИгроков онлайн: §7{online}",
   "creative.join_world": "{name} §fзашёл в мир",
   "creative.quit_world": "{name} §fвышел из мира",
@@ -54,5 +55,8 @@
   "creative.gui.builder_utils.secret_blocks": "Секретные блоки\nВ это меню вы сможете найти\nспециальные блоки, которые не получить\nиз обычного креатив меню\nКоманда: §f/blocks\n\n§e▶ Нажмите, чтобы открыть",
   "creative.item.quit_world": "Выйти из мира",
   "creative.world.set_spawn_location": "Установлена точка возрождения на координаты x:{x} y:{y} z:{z}",
-  "creative.world.loading": "Загрузка..."
+  "creative.world.loading": "Загрузка...",
+  "creative.vote.broadcast": "\n{name} §aпроголосовал за этот мир!\n§fПонравился мир? Проголосуй: §e/vote\n",
+  "creative.vote.already_voted": "§cВы уже голосовали за этот мир",
+  "creative.vote.not_in_world": "§eВы находитесь не в пользовательском мире"
 }
