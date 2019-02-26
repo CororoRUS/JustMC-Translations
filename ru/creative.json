@@ -42,7 +42,7 @@
   "creative.gui.build_management.allow": "{name}\n§aСтроительство разрешено",
   "creative.gui.build_management.deny": "{name}\n§cСтроительство запрещено",
   "creative.gui.flight_management.allow": "{name}\n§aПолёт разрешён",
-  "creative.gui.flight_management.deny": "{name}\n§aПолёт запрещён",
+  "creative.gui.flight_management.deny": "{name}\n§cПолёт запрещён",
   "creative.gui.armor_generator.description": "§7Левый клик - увеличить\n§7Правый клик - уменьшить\n§7Shift - изменить на 5",
   "creative.gui.builder_utils": "Строительные утилиты",
   "creative.gui.armor_generator": "Редактирование брони",
@@ -51,7 +51,7 @@
   "creative.gui.banner_generator.base_color": "Выберите базовый цвет",
   "creative.gui.banner_generator.select_color": "Выберите цвет",
   "creative.gui.banner_generator.select_pattern": "Выберите узор",
-  "creative.gui.builder_utils.banner_generator": "Баннеры\nСоздовайте свои уникальные баннеры\nКоманда: §f/banner\n\n§e▶ Нажмите, чтобы открыть",
+  "creative.gui.builder_utils.banner_generator": "Баннеры\nСоздавайте свои уникальные баннеры\nКоманда: §f/banner\n\n§e▶ Нажмите, чтобы открыть",
   "creative.gui.builder_utils.armor_generator": "Цветная броня\nБыстрый способ подобрать и покрасить\nброню в нужный цвет\nКоманда: §f/armor\n\n§e▶ Нажмите, чтобы открыть",
   "creative.gui.builder_utils.secret_blocks": "Секретные блоки\nВ это меню вы сможете найти\nспециальные блоки, которые не получить\nиз обычного креатив меню\nКоманда: §f/blocks\n\n§e▶ Нажмите, чтобы открыть",
   "creative.item.quit_world": "Выйти из мира",
@@ -60,7 +60,7 @@
   "creative.vote.broadcast": "\n{name} §aпроголосовал за этот мир!\n§fПонравился мир? Проголосуй: §e/vote\n",
   "creative.vote.already_voted": "§cВы уже голосовали за этот мир",
   "creative.vote.not_in_world": "§eВы находитесь не в пользовательском мире",
-  "creative.world_name.for_donators": "Цветные названия мира доступны от привелегии §b§lDELUXE",
+  "creative.world_name.for_donators": "Цветные названия мира доступны от привилегии §b§lDELUXE",
   "creative.world_name.success": "§aУстановлено название мира: §r{name}",
   "creative.world_name.write": "\nНапишите название мира в чат:\n"
 }
