@@ -1,9 +1,9 @@
 {
-  "time.milliseconds": "мс",
-  "time.seconds": "с",
-  "time.minutes": "м",
-  "time.hours": "ч",
+  "time.ago": "назад",
   "time.days": "д",
+  "time.hours": "ч",
   "time.less_than_second": "меньше секунды",
-  "time.ago": "назад"
+  "time.milliseconds": "мс",
+  "time.minutes": "м",
+  "time.seconds": "с"
 }
