@@ -62,5 +62,6 @@
   "creative.vote.not_in_world": "§eВы находитесь не в пользовательском мире",
   "creative.world_name.for_donators": "Цветные названия мира доступны от привилегии §b§lDELUXE",
   "creative.world_name.success": "§aУстановлено название мира: §r{name}",
-  "creative.world_name.write": "\nНапишите название мира в чат:\n"
+  "creative.world_name.write": "\nНапишите название мира в чат\nНапишите ОТМЕНА для отмены\n",
+  "creative.world_name.canceled": "Отменено. Название мира осталось прежним"
 }
