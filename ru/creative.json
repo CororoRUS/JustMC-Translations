@@ -1,6 +1,6 @@
 {
-  "creative.allow_to_build": "\n§aВам разрешили строить",
-  "creative.deny_to_build": "\n§cВам запретили строить",
+  "creative.allow_to_build": "§aВам разрешили строить",
+  "creative.deny_to_build": "§cВам запретили строить",
   "creative.gui.armor_generator": "Редактирование брони",
   "creative.gui.armor_generator.description": "§7Левый клик - увеличить\n§7Правый клик - уменьшить\n§7Shift - изменить на 5",
   "creative.gui.banner_generator": "Редактирование баннера",
