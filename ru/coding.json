@@ -192,7 +192,7 @@
   "coding.sign.action.game_stop_loop": "Остановить цикл",
   "coding.sign.action.game_void": " ",
   "coding.sign.action.game_wait": "Ждать",
-  "coding.sign.action.if_entity_void": " ",
+  "coding.sign.action.if_entity_void": "  ",
   "coding.sign.action.if_player": "Если игрок",
   "coding.sign.action.if_player_blocking": "Держит щит",
   "coding.sign.action.if_player_chat_equals": "Сообщение",
