@@ -2112,6 +2112,7 @@
   "minecraft.death.attack.lightningbolt": "%1$s был поражён молнией",
   "minecraft.death.attack.lightningbolt.player": "%1$s был поражён молнией, пока боролся с %2$s",
   "minecraft.death.attack.magic": "%1$s был убит магией",
+  "minecraft.death.attack.magic.player": "%1$s был убит магией, убегая от %2$s"
   "minecraft.death.attack.message_too_long": "Сообщение слишком длинное для доставки. Извините! Вот сокращённая версия: %s",
   "minecraft.death.attack.mob": "%1$s был убит %2$s",
   "minecraft.death.attack.mob.item": "%1$s был убит %2$s с помощью %3$s",
