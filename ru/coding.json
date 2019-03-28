@@ -1,5 +1,5 @@
 {
-  "coding.error_executing": "§ncoding.error_executing=MESSAGE_NOT_FOUND",
+  "coding.error_executing": "\n§cОшибка при выполении блока кода\n§c{action}\n§fСообщите о проблеме администрации\n",
   "coding.game_value.bow_power": "§ncoding.game_value.BOW_POWER=MESSAGE_NOT_FOUND",
   "coding.game_value.clicked_slot": "§ncoding.game_value.CLICKED_SLOT=MESSAGE_NOT_FOUND",
   "coding.game_value.current_air_remaining": "§ncoding.game_value.CURRENT_AIR_REMAINING=MESSAGE_NOT_FOUND",
@@ -503,5 +503,6 @@
   "coding.sign.activator.player_walk": "Передвигается",
   "coding.sign.activator.projectile_damage_player": "Урон от снаряда",
   "coding.sign.activator.projectile_kill_mob": "Снаряд убил",
-  "coding.sign.condition.inverted": "НЕ"
+  "coding.sign.condition.inverted": "НЕ",
+  "coding.error_load": "\n§4Критическая ошибка!\n§cОшибка при загрузке кода мира.\n§fСообщите о проблеме администрации\n"
 }
