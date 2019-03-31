@@ -187,7 +187,7 @@
   "coding.gui.action.player_launch_toward_away_from_location": "§bЗапуск в сторону локации\n§7Запустить выбранного игрока на\n§7выбранное число блоков в сторону \n§7локации или наоборот, от локации.\n\n§fВ сундуке:\n§cЧисло §8- §7Направление запуска по координате X\n§cЧисло §8- §7Направление запуска по координате Y\n§cЧисло §8- §7Направление запуска по координате Z\n\n§9Дополнительная информация:\n§b> §7Положительное число запускает в сторону координаты,\n§7а отрицательное число - от неё.",
   "coding.gui.action.player_launch_up_down": "§bЗапуск вверх или вниз\n§7Запустить выбранного игрока на\n§7выбранное число блоков вниз или вверх.\n\n§fВ сундуке:\n§cЧисло §8- §7Сила запуска\n\n§9Дополнительная информация:\n§b> §7Положительная сила запускает вверх,\n§7а отрицательная сила - вниз.",
   "coding.gui.action.player_launch_up_down.argument.delay": "Сила запуска",
-  "coding.gui.action.player_launch_up_down.argument.power": "§ncoding.gui.action.player_launch_up_down.argument.power=MESSAGE_NOT_FOUND",
+  "coding.gui.action.player_launch_up_down.argument.power": "Сила запуска",
   "coding.gui.action.player_lose_items_on_death": "§ncoding.gui.action.player_lose_items_on_death=MESSAGE_NOT_FOUND",
   "coding.gui.action.player_message": "§eОтправить сообщение\n§7Отправляет сообщение в чат\n§7указанным игрокам.\n\n§rВ сундуке:\n§bТекст(ы)§r* §8- §7Текст для отправки\n\n§9Дополнительная информация:\n§b> §7Несколько текстов будут объеденены в\n§7одно сообщение\n§b> §7Числа и местоположения\n§7будут преобразованы в текст\n\n§r*Не обязательно\n",
   "coding.gui.action.player_message.argument.messages": "Текст для отправки",
